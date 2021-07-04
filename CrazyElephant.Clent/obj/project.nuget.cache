@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZ9KCBoo71QIos4bS8riAKvso/Nf8ol+W0naz3r7llWUUwBYEYWt7PyL1lfRPTnl0qD+WpqaAPtQQg7WPNUOUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chans\\source\\repos\\CrazyElephant.Clent\\CrazyElephant.Clent\\CrazyElephant.Clent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chans\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
